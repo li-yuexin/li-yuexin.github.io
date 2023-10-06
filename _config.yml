@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yuexin Li"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuexin"
 description              : &description "personal description"
 url                      : https://li-yuexin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "li-yuexin/li-yuexin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/li-yuexin"
+  github           : "li-yuexin"
   google_plus      :
   keybase          :
   instagram        :
