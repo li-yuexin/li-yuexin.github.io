@@ -19,5 +19,9 @@ I hold a Ph.D. in finance from Tilburg University (Netherlands), M.Sc. in econom
 - Economics of Art
 - Empirical Corporate Finance
 
+## Contacts
+No. 59 Zhongguancun Street, Haidian District Beijing
 
+Renmin University of China
 
+E-mail: yuexin.li@ruc.edu.cn
