@@ -21,8 +21,8 @@ I hold a Ph.D. in finance from Tilburg University (Netherlands), M.Sc. in econom
 
 
 ## Contacts
-School of Applied Economics
-Renmin University of China
-E-mail: yuexinli@ruc.edu.cn
-[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2611245)
-[Google Sites](https://sites.google.com/view/yuexinli)
+School of Applied Economics<br/>
+Renmin University of China<br/>
+E-mail: yuexinli@ruc.edu.cn<br/>
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2611245)<br/>
+[Google Sites](https://sites.google.com/view/yuexinli)<br/>
