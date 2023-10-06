@@ -10,8 +10,7 @@ title: "Teaching"
 
 ## Tilburg University (Tilburg, Netherlands)
 - Supervision Bachelor Thesis in Finance (17 students,  2018, 2020)
-
-   Teaching Assistant:<br/>
+- Teaching Assistant:<br/>
   -  Academic Competences Finance (graduate, 2017, 2018, 2019)
   -  Investment Analysis (graduate, 2019)
   -  Entrepreneurial Finance (graduate, 2018, 2020)
@@ -20,9 +19,8 @@ title: "Teaching"
   -  Corporate Valuation (graduate, 2017)
   
 ## Renmin University (Beijing, China)
-   Teaching Assistant:<br/>
+- Teaching Assistant:<br/>
   -  Finance (undergraduate, 2015)
   -  International Summer School (undergraduate, 2014)
-
    
  
