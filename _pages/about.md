@@ -13,21 +13,16 @@ I am an Assistant Professor at Renmin University of China since August 2021.
 
 I hold a Ph.D. in finance from Tilburg University (Netherlands), M.Sc. in economics from Renmin University (China) and Kyushu University (Japan), and a B.Sc. in economics from Renmin University (China).
 
-Research Interests
-======
-Cultural Economics
+## Research Interests
+- Cultural Economics
+- Alternative Investments
+- Economics of Art
+- Empirical Corporate Finance
 
-Alternative Investments
 
-Economics of Art
-
-Empirical Corporate Finance
-
-Contacts
-======
+## Contacts
 School of Applied Economics
-
 Renmin University of China
-
-E-mail: yuexin.li@ruc.edu.cn
-
+E-mail: yuexinli@ruc.edu.cn
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2611245)
+[Google Sites](https://sites.google.com/view/yuexinli)
