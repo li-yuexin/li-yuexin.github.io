@@ -18,10 +18,10 @@ author_profile: true
 [Art in Times of Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3929327) <br/>
  (with Geraldine David, Kim Oosterlinck, and Luc Renneboog)  
 
-[Attention to Art Auctions]<br/>
+Attention to Art Auctions <br/>
  (with Jennie Bai and Luc Renneboog)  
 
-[The Market for Scientists]<br/>
+The Market for Scientists <br/>
  
   
 
