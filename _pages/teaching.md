@@ -10,6 +10,7 @@ title: "Teaching"
 
 ## Tilburg University (Tilburg, Netherlands)
 Supervision Bachelor Thesis in Finance (17 students,  2018, 2020)
+
 Teaching Assistant:
 - Academic Competences Finance (graduate, 2017, 2018, 2019)
 - Investment Analysis (graduate, 2019)
