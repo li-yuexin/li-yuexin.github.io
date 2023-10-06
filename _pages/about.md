@@ -20,7 +20,4 @@ I hold a Ph.D. in finance from Tilburg University (Netherlands), M.Sc. in econom
 - Empirical Corporate Finance
 
 
-## Contacts
-E-mail: yuexinli@ruc.edu.cn<br/>
 
-[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2611245)     [Google Sites](https://sites.google.com/view/yuexinli)<br/>
