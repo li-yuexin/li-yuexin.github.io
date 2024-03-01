@@ -6,7 +6,7 @@ title: "Teaching"
 ## Renmin University of China (Beijing, China)
 - Advanced Topics in Cultural Economics (graduate, 2024)
 - Econometrics (undergraduate, 2022, 2023)
-- Digital Economics (graduate, 2022, 2023,2024)
+- Digital Economics (graduate, 2022, 2023, 2024)
 - Supervision Bachelor Thesis in Economics (1 student, 2022)     
 
 ## Tilburg University (Tilburg, Netherlands)
