@@ -23,4 +23,4 @@ No. 59 Zhongguancun Street, Haidian District Beijing
 
 Renmin University of China
 
-E-mail: yuexin.li@ruc.edu.cn
+E-mail: yuexinli@ruc.edu.cn
